@@ -1,0 +1,22 @@
+body{
+    font-family: Inter, sans-serif;
+    border: green;
+}
+
+h1{
+    color: blue;
+}
+
+ol {
+    padding-left: 100px;
+    line-height: 2;
+}
+
+div {
+    background-color: lightblue;
+    border: red solid;
+}
+
+span{
+    background-color: yellow;
+}
